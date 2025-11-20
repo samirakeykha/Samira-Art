@@ -25,13 +25,14 @@ Here are three sample artworks featured on the website:
 ## 📁 Folder Structure
 
 Samira-Art/
-│── index.html
-│── style.css
-│── script.js
-│── img/
-│── Painting1.jpg
-│── Painting2.jpg
-│── Painting3.jpg
+│── index.html        → main HTML file
+│── style.css         → styling
+│── script.js         → JavaScript interactions
+│── img/              → images folder
+    │── Painting1.jpg
+    │── Painting2.jpg
+    │── Painting3.jpg
+
 ---
 
 ## ✨ Features
